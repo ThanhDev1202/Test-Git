@@ -9,5 +9,5 @@ package HeHe;
  * @author admin
  */
 public class NewClass {
-    
+    System.out.println("hello wolrd");
 }
